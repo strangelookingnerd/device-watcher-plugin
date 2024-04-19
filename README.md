@@ -12,4 +12,4 @@ The IP addresses can be set in the global configuration of Jenkins.
 
 1. Allow two types of scans, ICMP and TCP Syn
 2. Allow the scan to happen on any slave. (Useful for an embedded device connected to a slave)
-3. Build step to fail builds if a device isin't available
+3. Build step to fail builds if a device isin't available.
